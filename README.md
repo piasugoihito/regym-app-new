@@ -68,6 +68,8 @@ Next.js (App Router) と Supabase を活用した、パーソナルジム向け�
 
 ## 💻 開発プロセスの可視化
 
-本プロジェクトでは、実務のチーム開発に沿った厳格な Git フローを採用しています。
-各フェーズ（Phase 0〜5）ごとに PR を作成し、丁寧なコミットメッセージとコードレビューログを記録しています。
-詳細は [Pull Requests](https://github.com/piasugoihito/regym-app-new/pulls?q=is%3Apr+is%3Aclosed) をご覧ください。
+本プロジェクトでは、実務のチーム開発に沿った厳格な Git フローを採用し、機能ごとに Issue / Pull Request を作成して設計検討・実装を行いました。
+
+- **開発プロセス・PRレビュー履歴 (旧リポジトリ):** [Pull Requests 一覧 (JinSugino/regym-app)](https://github.com/JinSugino/regym-app/pulls?q=is%3Apr+author%3AJinSugino)
+
+> ※ アカウント移行に伴いコードベースを本リポジトリへ再構築しましたが、Phase 0 〜 Phase 5 までの各機能の設計思想、二重予約防止ロジックの検討、および RLS 無限再帰解消の議論プロセスは上記 PR 履歴にて全件公開しています。
