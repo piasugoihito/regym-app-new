@@ -69,4 +69,5 @@ Next.js (App Router) と Supabase を活用した、パーソナルジム向け�
 ## 💻 開発プロセスの可視化
 
 本プロジェクトでは、実務のチーム開発に沿った厳格な Git フローを採用しています。
-各フェーズ（Phase 0〜5）ごとに Issue/PR を作成し、丁寧なコミットメッセージとコードレビューログを記録しています。詳細は [Pull Requests](../../pulls?q=is%3Apr+is%3Aclosed) をご覧ください。
+各フェーズ（Phase 0〜5）ごとに PR を作成し、丁寧なコミットメッセージとコードレビューログを記録しています。
+詳細は [Pull Requests](https://github.com/piasugoihito/regym-app-new/pulls?q=is%3Apr+is%3Aclosed) をご覧ください。
